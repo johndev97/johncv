@@ -1,1 +1,12 @@
-cv
+Hola tengo 29 años, y 10 años de experiencia en desarrollo de software. Debido a que soy extranjero he tenido pocas oportunidades de empleo aqui en españa, sin embargo ya cuento con mi DNI español y estoy buscando un empleo estable.
+
+En este cv no hablaré de mi pasado, sino de mi futuro, en vuestra empresa.
+Aparte de las funciones solicitadas las propuestas que ofrezco son:
+
+**API abierta para integrarse con todo:**
+-reservar plaza desde la app del edificio de alguno de vuestros clientes B2B. Es una alternativa mas directa que hacer que el usuario primerizo se baje la app.
+
+**Sistema de gestión energética inteligente:**
+-Crear un sistema para que la carga de vuestros vehiculos se realice cuando la electricidad es más barata. Sobretodo ahora que ha subido el precio de la luz a partir de las 6 de la tarde. 
+
+Mi trabajo sera generarle mas ingresos a la empresa y dar lo mejor para durar lo maximo posible en este trabajo, porque busco ingresos estables para mantener a mi familia. 
